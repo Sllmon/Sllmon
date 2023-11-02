@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 <h2> Mes statistiques </h2>
 
-![d](https://github-readme-stats.vercel.app/api/top-langs/?username=Sllmon)![d](https://github-readme-stats.vercel.app/api?username=Sllmon&show_icons=true)         
+**![d](https://github-readme-stats.vercel.app/api/top-langs/?username=Sllmon)![d](https://github-readme-stats.vercel.app/api?username=Sllmon&show_icons=true)         
